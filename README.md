@@ -2,7 +2,7 @@
 
 ## Experimenting with Notebooks
 
-to run the notebooks, first install ipython 
+to run the notebooks, first install [ipython](https://ipython.org/) 
 
 `pip install "ipython[all]"`
 
